@@ -1,0 +1,6 @@
+content:
+- Theory
+- Base class
+- Base classes of RuntimeException
+- Subclasses of RuntimeException
+- BadRequestException
